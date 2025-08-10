@@ -21,7 +21,7 @@ This is where I’ll share my journey, from my first code to my future big proje
 ---
 
 ## 📫 How to Reach Me  
-- **Email:** your-email@example.com  
+- **Email:** samruddhigore033@gmail.com 
 - **LinkedIn:** [https://www.linkedin.com/in/samruddhi-gore-1820b4333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
 
 ---
