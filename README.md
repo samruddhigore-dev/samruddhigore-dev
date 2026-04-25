@@ -1,24 +1,30 @@
 # Hi, I'm Samruddhi Gore 👋  
+🎓 BTech CSE Student | 💻 Aspiring Software Engineer
 
-I’m an aspiring developer passionate about **learning, building, and growing** in the tech world.  
-This is where I’ll share my journey, from my first code to my future big projects. 🚀  
-
----
-
-## 🌱 Currently Learning  
-- Git & GitHub  
-- Web development (HTML, CSS, JavaScript)  
-- Python basics
-- UI/UX design enthusiast 
+I build web applications and focus on writing clean, scalable code.
+Currently working on improving my skills in full-stack development and problem solving.  
 
 ---
 
-## 🎯 My Goals  
-- Build my first website and host it online  
-- Contribute to an open-source project  
-- Keep improving my coding skills every day  
+## 🚀 Tech Stack
+Languages: JavaScript, Python, SQL
+Frontend: HTML, CSS, JavaScript (Learning React)
+Tools: Git, GitHub, VS Code, Postman
 
 ---
+## 📌 Projects
+🌦️ Weather App – Fetches real-time weather data using API
+🔐 Password Generator – Generates secure passwords with custom options
+🎮 Guessing Game – Interactive number guessing game using JavaScript
+🧮 Calculator – Basic calculator with clean UI
+
+👉 More projects coming soon...
+---
+
+## 📈 Currently Working On
+Learning React.js
+Strengthening Data Structures & Algorithms
+Building real-world full stack projects
 
 ## 📫 How to Reach Me  
 - **Email:** samruddhigore033@gmail.com 
