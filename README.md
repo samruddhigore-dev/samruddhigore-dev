@@ -1,39 +1,63 @@
-# Hi, I'm Samruddhi Gore 👋  
-🎓 BTech CSE Student | 💻 Aspiring Software Engineer
+ # Hi, I'm Samruddhi Gore 👋
 
-I build web applications and focus on writing clean, scalable code.
-Currently working on improving my skills in full-stack development and problem solving.  
+🎓 BTech CSE Student | 💻 Full Stack Developer (MERN) | 🧠 DSA Learner
+
+I build responsive and scalable web applications and focus on writing clean, efficient code.
+Currently working on full-stack development and strengthening problem-solving skills.
 
 ---
 
 ## 🚀 Tech Stack
-• Languages: JavaScript, Python, SQL
-• Frontend: HTML, CSS, JavaScript
-  (Learning    React)
-• Tools: Git, GitHub, VS Code, Postman
+
+* **Languages:** JavaScript, Python, SQL
+* **Frontend:** HTML, CSS, JavaScript, React.js
+* **Backend:** Node.js, Express.js (Learning)
+* **Database:** MongoDB (Learning)
+* **Tools:** Git, GitHub, VS Code, Postman
 
 ---
-## 📌 Projects
-•🌦️ Weather App – Fetches real-time       weather data using API
-•🔐 Password Generator – Generates secure  passwords with custom options
-•🎮 Guessing Game – Interactive number guessing game using JavaScript
-•🧮 Calculator – Basic calculator with clean UI
 
-👉 More projects coming soon...
+## 📌 Projects
+
+### 🌦️ Weather App
+-Built a responsive weather application using JavaScript and OpenWeather API
+-Implemented dynamic UI updates and error handling
+-Allows users to search real-time weather by city
+### 🔐 Password Generator
+-Developed a customizable password generator using JavaScript
+-Supports multiple conditions (length, symbols, numbers)
+-Focused on clean UI and usability
+### 🎮 Guessing Game
+-Interactive number guessing game using JavaScript
+-Implemented game logic and user input validation
+### 🧮 Calculator
+-Built a functional calculator with clean UI using HTML, CSS, JavaScript
+-Implemented basic arithmetic operations with responsive design
+
+👉 Currently building advanced full-stack and real-world projects...
+
 ---
 
 ## 📈 Currently Working On
-• Learning React.js
-• Strengthening Data Structures &  Algorithms
-•Building real-world full stack projects
 
-## 📫 How to Reach Me  
+* Building a **Full Stack Task Manager (MERN)**
+* Practicing **Data Structures & Algorithms** on LeetCode
+* Learning **React.js and Backend Development**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+## 📫 Connect With Me 
 - **Email:** samruddhigore033@gmail.com 
 - **LinkedIn:** [https://www.linkedin.com/in/samruddhi-gore-1820b4333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
 
 ---
 
-⭐ *Follow me to watch my progress and upcoming projects!*
+⭐ *Focused on building real-world projects and continuosly improving!*
 
 
 <!--
