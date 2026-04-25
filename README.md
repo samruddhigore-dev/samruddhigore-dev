@@ -20,19 +20,19 @@ Currently working on full-stack development and strengthening problem-solving sk
 ## 📌 Projects
 
 ### 🌦️ Weather App
--Built a responsive weather application using JavaScript and OpenWeather API
--Implemented dynamic UI updates and error handling
--Allows users to search real-time weather by city
+-  Built a responsive weather application using JavaScript and OpenWeather API  
+-  Implemented dynamic UI updates and error handling  
+-  Allows users to search real-time weather by city  
 ### 🔐 Password Generator
--Developed a customizable password generator using JavaScript
--Supports multiple conditions (length, symbols, numbers)
--Focused on clean UI and usability
+-  Developed a customizable password generator using JavaScript
+-  Supports multiple conditions (length, symbols, numbers)
+-  Focused on clean UI and usability
 ### 🎮 Guessing Game
--Interactive number guessing game using JavaScript
--Implemented game logic and user input validation
+-  Interactive number guessing game using JavaScript
+-  Implemented game logic and user input validation
 ### 🧮 Calculator
--Built a functional calculator with clean UI using HTML, CSS, JavaScript
--Implemented basic arithmetic operations with responsive design
+-  Built a functional calculator with clean UI using HTML, CSS, JavaScript
+-  Implemented basic arithmetic operations with responsive design
 
 👉 Currently building advanced full-stack and real-world projects...
 
