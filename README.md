@@ -7,24 +7,25 @@ Currently working on improving my skills in full-stack development and problem s
 ---
 
 ## 🚀 Tech Stack
-Languages: JavaScript, Python, SQL
-Frontend: HTML, CSS, JavaScript (Learning React)
-Tools: Git, GitHub, VS Code, Postman
+• Languages: JavaScript, Python, SQL
+• Frontend: HTML, CSS, JavaScript
+  (Learning    React)
+• Tools: Git, GitHub, VS Code, Postman
 
 ---
 ## 📌 Projects
-🌦️ Weather App – Fetches real-time weather data using API
-🔐 Password Generator – Generates secure passwords with custom options
-🎮 Guessing Game – Interactive number guessing game using JavaScript
-🧮 Calculator – Basic calculator with clean UI
+•🌦️ Weather App – Fetches real-time       weather data using API
+•🔐 Password Generator – Generates secure  passwords with custom options
+•🎮 Guessing Game – Interactive number guessing game using JavaScript
+•🧮 Calculator – Basic calculator with clean UI
 
 👉 More projects coming soon...
 ---
 
 ## 📈 Currently Working On
-Learning React.js
-Strengthening Data Structures & Algorithms
-Building real-world full stack projects
+• Learning React.js
+• Strengthening Data Structures &  Algorithms
+•Building real-world full stack projects
 
 ## 📫 How to Reach Me  
 - **Email:** samruddhigore033@gmail.com 
