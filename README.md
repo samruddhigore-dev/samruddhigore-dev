@@ -48,7 +48,7 @@ Currently working on full-stack development and strengthening problem-solving sk
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samruddhigore-dev&show_icons=true&theme=radical)
 
 ---
 ## 📫 Connect With Me 
